@@ -1,0 +1,16 @@
+html,body,a{
+    color: white;
+    background-color: #080e08;
+}
+a{
+    text-decoration: none;
+}
+.colorful{
+
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(3, 1fr);
+    border: 2px solid black;
+    width: min-content;
+    padding: 5px;
+}

@@ -1,0 +1,42 @@
+#right{
+    position: absolute;
+    right : 10px;
+    top: 5px;
+    text-align: center;
+}
+.inpt{
+    text-align: center;
+    background-color: #121414;
+    border-radius: 10px;
+    height: 30px;
+    color: white; 
+}
+.sbm{
+    height: 40px;
+    color:white;
+    background-color: #043627;
+    border-radius: 10px;
+}
+#login{
+  position: fixed; /* Фиксация на экране */
+  top: 0;
+  left: 0;
+  width: 100%; 
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); 
+    text-align: center;
+}
+#login1{
+    text-align: center;
+}
+#centered{
+margin-top:10%; 
+}
+.green{
+    color: #2aa678; 
+    margin-left: 20px;
+}
+#mos{
+    color: #49ffbc; 
+    font-size: 20px;
+}
